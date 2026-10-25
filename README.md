@@ -58,3 +58,21 @@ A 3 × 3 edge-detection kernel is applied to images of different sizes.
 - Explore constant memory and additional memory optimizations.
 - Extend the implementation to RGB images and larger workloads.
 - Investigate integration into CNN-based image-processing pipelines.
+
+## Performance Comparison
+
+![CPU vs GPU Performance](performance_comparison.png)
+
+## Speedup Analysis
+
+![CPU vs GPU Speedup](speedup_comparison.png)
+
+## Convolution Visualization
+
+![Convolution Results](convolution_visualization.png)
+
+## Additional Demonstrations
+
+![Convolution Demo 1](convolution_demo_1.png)
+
+![Convolution Demo 2](convolution_demo_2.png)
